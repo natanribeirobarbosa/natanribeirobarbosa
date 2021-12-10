@@ -1,5 +1,5 @@
 Olá! como vai
-<img url(https://i.pinimg.com/originals/dd/31/d2/dd31d2dd156204fcf9b6aa1c54455adb.gif)></img>
+<img src="https://i.pinimg.com/originals/dd/31/d2/dd31d2dd156204fcf9b6aa1c54455adb.gif"></img>
 
 <!--
 **natanribeirobarbosa/natanribeirobarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
