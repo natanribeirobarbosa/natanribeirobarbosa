@@ -1,15 +1,13 @@
 
-<div align="center" style="display: inline_block">
-<h1>Natã Ribeiro Barbosa -18 anos</h1>
-<li align="left">Linguagens favoritas:</li>
+
+
+ <div align="center">
+<a href="https://github.com/natanribeirobarbosa"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=natanribeirobarbosa&show_icons=true&include_all_commits=true&count_private=true&bg_color=90,000,0dbc5e&locale=pt-br&title_color=0fff06&text_color=e7ffed&icon_color=e7ffed"/></a>
+  </div>
+<li align="left">Redes Sociais:
   
+
   
-  
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p>iodamd</p>
     
     
     
@@ -28,11 +26,7 @@
 </div>
 
 <br>
-<div align="center">
-  <a href="https://github.com/natanribeirobarbosa">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanribeirobarbosa&layout=compact&langs_count=7&theme=merko"/>
-</div>
 
   
   ##
