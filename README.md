@@ -1,36 +1,47 @@
-**Olá! como vai?**<br>
-Sou um programador `front-end` a não muito tempo, me siga nas redes para ficar de meus projetos!
 
+<div align="center" style="display: inline_block">
+  <h1>OI</h1>
+  <img align="right" height=200" src="https://b.kisscc0.com/20190326/gze/kisscc0-the-matrix-path-of-neo-computer-icons-art-matrix-head-5c9ab7d45f0664.2212905915536434763892.png">
+    <li>haiouhfafd
+    <p>iodamd</p></li>
+    
+    
+    
+    
 
-<div style="display:inline">
-<img  align="center" height="100"  src="https://camo.githubusercontent.com/a7e084d5cfe1123083f0291e3ee5015205c793d3cb53ea855948c2ade7dded6d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64642f33312f64322f64643331643264643135363230346663663962366161316335343435356164622e676966"></img></div>
-
-
-
-
-
-<!--<img src="https://c.tenor.com/ECtAdpoudr0AAAAj/sticker-agent-smith.gif"></img>-->
-
-
+  <br>
+      
+      
+      
+      
+      
+    
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
-  <span align="right" >Minhas redes: </span>
-<a  href="https://www.instagram.com/natanribeirobarbosa/"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a  href="https://www.instagram.com/natanribeirobarbosa/"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a  href="https://www.instagram.com/natanribeirobarbosa/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-<!--
-**natanribeirobarbosa/natanribeirobarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div align="center">
+  <a href="https://github.com/natanribeirobarbosa">
 
-Here are some ideas to get you started:
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanribeirobarbosa&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64642f33312f64322f64643331643264643135363230346663663962366161316335343435356164622e676966](https://user-images.githubusercontent.com/95133483/145624052-2220ae73-a9e0-4147-a9f8-0152e401ca4f.gif)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
