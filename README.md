@@ -1,9 +1,15 @@
 
 <div align="center" style="display: inline_block">
-  <h1>OI</h1>
-  <img align="right" height=200" src="https://b.kisscc0.com/20190326/gze/kisscc0-the-matrix-path-of-neo-computer-icons-art-matrix-head-5c9ab7d45f0664.2212905915536434763892.png">
-    <li>haiouhfafd
-    <p>iodamd</p></li>
+<h1>Natã Ribeiro Barbosa -18 anos</h1>
+<li align="left">Linguagens favoritas:</li>
+  
+  
+  
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p>iodamd</p>
     
     
     
@@ -16,10 +22,7 @@
       
       
     
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 
   
 </div>
